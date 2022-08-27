@@ -1,0 +1,230 @@
+,0,1
+0,"Imports of all grades of crude oil from OPEC to refineries in Alaska, Annual",PET_IMPORTS.OPN_Y-RS_AK-ALL.A
+1,"Imports of all grades of crude oil from OPEC to refineries in Alaska, Monthly",PET_IMPORTS.OPN_Y-RS_AK-ALL.M
+2,"Imports of light sweet crude oil from OPEC to refineries in Alaska, Annual",PET_IMPORTS.OPN_Y-RS_AK-LSW.A
+3,"Imports of light sweet crude oil from OPEC to refineries in Alaska, Monthly",PET_IMPORTS.OPN_Y-RS_AK-LSW.M
+4,"Imports of all grades of crude oil from OPEC to refineries in Alabama, Annual",PET_IMPORTS.OPN_Y-RS_AL-ALL.A
+5,"Imports of all grades of crude oil from OPEC to refineries in Alabama, Monthly",PET_IMPORTS.OPN_Y-RS_AL-ALL.M
+6,"Imports of heavy sour crude oil from OPEC to refineries in Alabama, Annual",PET_IMPORTS.OPN_Y-RS_AL-HSO.A
+7,"Imports of heavy sour crude oil from OPEC to refineries in Alabama, Monthly",PET_IMPORTS.OPN_Y-RS_AL-HSO.M
+8,"Imports of light sweet crude oil from OPEC to refineries in Alabama, Annual",PET_IMPORTS.OPN_Y-RS_AL-LSW.A
+9,"Imports of light sweet crude oil from OPEC to refineries in Alabama, Monthly",PET_IMPORTS.OPN_Y-RS_AL-LSW.M
+10,"Imports of medium crude oil from OPEC to refineries in Alabama, Annual",PET_IMPORTS.OPN_Y-RS_AL-MED.A
+11,"Imports of medium crude oil from OPEC to refineries in Alabama, Monthly",PET_IMPORTS.OPN_Y-RS_AL-MED.M
+12,"Imports of all grades of crude oil from OPEC to refineries in Arkansas, Annual",PET_IMPORTS.OPN_Y-RS_AR-ALL.A
+13,"Imports of all grades of crude oil from OPEC to refineries in Arkansas, Monthly",PET_IMPORTS.OPN_Y-RS_AR-ALL.M
+14,"Imports of light sour crude oil from OPEC to refineries in Arkansas, Annual",PET_IMPORTS.OPN_Y-RS_AR-LSO.A
+15,"Imports of light sour crude oil from OPEC to refineries in Arkansas, Monthly",PET_IMPORTS.OPN_Y-RS_AR-LSO.M
+16,"Imports of medium crude oil from OPEC to refineries in Arkansas, Annual",PET_IMPORTS.OPN_Y-RS_AR-MED.A
+17,"Imports of medium crude oil from OPEC to refineries in Arkansas, Monthly",PET_IMPORTS.OPN_Y-RS_AR-MED.M
+18,"Imports of all grades of crude oil from OPEC to refineries in California, Annual",PET_IMPORTS.OPN_Y-RS_CA-ALL.A
+19,"Imports of all grades of crude oil from OPEC to refineries in California, Monthly",PET_IMPORTS.OPN_Y-RS_CA-ALL.M
+20,"Imports of heavy sour crude oil from OPEC to refineries in California, Annual",PET_IMPORTS.OPN_Y-RS_CA-HSO.A
+21,"Imports of heavy sour crude oil from OPEC to refineries in California, Monthly",PET_IMPORTS.OPN_Y-RS_CA-HSO.M
+22,"Imports of heavy sweet crude oil from OPEC to refineries in California, Annual",PET_IMPORTS.OPN_Y-RS_CA-HSW.A
+23,"Imports of heavy sweet crude oil from OPEC to refineries in California, Monthly",PET_IMPORTS.OPN_Y-RS_CA-HSW.M
+24,"Imports of light sour crude oil from OPEC to refineries in California, Annual",PET_IMPORTS.OPN_Y-RS_CA-LSO.A
+25,"Imports of light sour crude oil from OPEC to refineries in California, Monthly",PET_IMPORTS.OPN_Y-RS_CA-LSO.M
+26,"Imports of light sweet crude oil from OPEC to refineries in California, Annual",PET_IMPORTS.OPN_Y-RS_CA-LSW.A
+27,"Imports of light sweet crude oil from OPEC to refineries in California, Monthly",PET_IMPORTS.OPN_Y-RS_CA-LSW.M
+28,"Imports of medium crude oil from OPEC to refineries in California, Annual",PET_IMPORTS.OPN_Y-RS_CA-MED.A
+29,"Imports of medium crude oil from OPEC to refineries in California, Monthly",PET_IMPORTS.OPN_Y-RS_CA-MED.M
+30,"Imports of all grades of crude oil from OPEC to refineries in Delaware, Annual",PET_IMPORTS.OPN_Y-RS_DE-ALL.A
+31,"Imports of all grades of crude oil from OPEC to refineries in Delaware, Monthly",PET_IMPORTS.OPN_Y-RS_DE-ALL.M
+32,"Imports of heavy sour crude oil from OPEC to refineries in Delaware, Annual",PET_IMPORTS.OPN_Y-RS_DE-HSO.A
+33,"Imports of heavy sour crude oil from OPEC to refineries in Delaware, Monthly",PET_IMPORTS.OPN_Y-RS_DE-HSO.M
+34,"Imports of heavy sweet crude oil from OPEC to refineries in Delaware, Annual",PET_IMPORTS.OPN_Y-RS_DE-HSW.A
+35,"Imports of heavy sweet crude oil from OPEC to refineries in Delaware, Monthly",PET_IMPORTS.OPN_Y-RS_DE-HSW.M
+36,"Imports of light sour crude oil from OPEC to refineries in Delaware, Annual",PET_IMPORTS.OPN_Y-RS_DE-LSO.A
+37,"Imports of light sour crude oil from OPEC to refineries in Delaware, Monthly",PET_IMPORTS.OPN_Y-RS_DE-LSO.M
+38,"Imports of light sweet crude oil from OPEC to refineries in Delaware, Annual",PET_IMPORTS.OPN_Y-RS_DE-LSW.A
+39,"Imports of light sweet crude oil from OPEC to refineries in Delaware, Monthly",PET_IMPORTS.OPN_Y-RS_DE-LSW.M
+40,"Imports of medium crude oil from OPEC to refineries in Delaware, Annual",PET_IMPORTS.OPN_Y-RS_DE-MED.A
+41,"Imports of medium crude oil from OPEC to refineries in Delaware, Monthly",PET_IMPORTS.OPN_Y-RS_DE-MED.M
+42,"Imports of all grades of crude oil from OPEC to refineries in Florida, Annual",PET_IMPORTS.OPN_Y-RS_FL-ALL.A
+43,"Imports of all grades of crude oil from OPEC to refineries in Florida, Monthly",PET_IMPORTS.OPN_Y-RS_FL-ALL.M
+44,"Imports of heavy sour crude oil from OPEC to refineries in Florida, Annual",PET_IMPORTS.OPN_Y-RS_FL-HSO.A
+45,"Imports of heavy sour crude oil from OPEC to refineries in Florida, Monthly",PET_IMPORTS.OPN_Y-RS_FL-HSO.M
+46,"Imports of all grades of crude oil from OPEC to refineries in Georgia, Annual",PET_IMPORTS.OPN_Y-RS_GA-ALL.A
+47,"Imports of all grades of crude oil from OPEC to refineries in Georgia, Monthly",PET_IMPORTS.OPN_Y-RS_GA-ALL.M
+48,"Imports of heavy sour crude oil from OPEC to refineries in Georgia, Annual",PET_IMPORTS.OPN_Y-RS_GA-HSO.A
+49,"Imports of heavy sour crude oil from OPEC to refineries in Georgia, Monthly",PET_IMPORTS.OPN_Y-RS_GA-HSO.M
+50,"Imports of all grades of crude oil from OPEC to refineries in Hawaii, Annual",PET_IMPORTS.OPN_Y-RS_HI-ALL.A
+51,"Imports of all grades of crude oil from OPEC to refineries in Hawaii, Monthly",PET_IMPORTS.OPN_Y-RS_HI-ALL.M
+52,"Imports of heavy sour crude oil from OPEC to refineries in Hawaii, Annual",PET_IMPORTS.OPN_Y-RS_HI-HSO.A
+53,"Imports of heavy sour crude oil from OPEC to refineries in Hawaii, Monthly",PET_IMPORTS.OPN_Y-RS_HI-HSO.M
+54,"Imports of heavy sweet crude oil from OPEC to refineries in Hawaii, Annual",PET_IMPORTS.OPN_Y-RS_HI-HSW.A
+55,"Imports of heavy sweet crude oil from OPEC to refineries in Hawaii, Monthly",PET_IMPORTS.OPN_Y-RS_HI-HSW.M
+56,"Imports of light sour crude oil from OPEC to refineries in Hawaii, Annual",PET_IMPORTS.OPN_Y-RS_HI-LSO.A
+57,"Imports of light sour crude oil from OPEC to refineries in Hawaii, Monthly",PET_IMPORTS.OPN_Y-RS_HI-LSO.M
+58,"Imports of light sweet crude oil from OPEC to refineries in Hawaii, Annual",PET_IMPORTS.OPN_Y-RS_HI-LSW.A
+59,"Imports of light sweet crude oil from OPEC to refineries in Hawaii, Monthly",PET_IMPORTS.OPN_Y-RS_HI-LSW.M
+60,"Imports of medium crude oil from OPEC to refineries in Hawaii, Annual",PET_IMPORTS.OPN_Y-RS_HI-MED.A
+61,"Imports of medium crude oil from OPEC to refineries in Hawaii, Monthly",PET_IMPORTS.OPN_Y-RS_HI-MED.M
+62,"Imports of all grades of crude oil from OPEC to refineries in Illinois, Annual",PET_IMPORTS.OPN_Y-RS_IL-ALL.A
+63,"Imports of all grades of crude oil from OPEC to refineries in Illinois, Monthly",PET_IMPORTS.OPN_Y-RS_IL-ALL.M
+64,"Imports of heavy sour crude oil from OPEC to refineries in Illinois, Annual",PET_IMPORTS.OPN_Y-RS_IL-HSO.A
+65,"Imports of heavy sour crude oil from OPEC to refineries in Illinois, Monthly",PET_IMPORTS.OPN_Y-RS_IL-HSO.M
+66,"Imports of light sour crude oil from OPEC to refineries in Illinois, Annual",PET_IMPORTS.OPN_Y-RS_IL-LSO.A
+67,"Imports of light sour crude oil from OPEC to refineries in Illinois, Monthly",PET_IMPORTS.OPN_Y-RS_IL-LSO.M
+68,"Imports of light sweet crude oil from OPEC to refineries in Illinois, Annual",PET_IMPORTS.OPN_Y-RS_IL-LSW.A
+69,"Imports of light sweet crude oil from OPEC to refineries in Illinois, Monthly",PET_IMPORTS.OPN_Y-RS_IL-LSW.M
+70,"Imports of medium crude oil from OPEC to refineries in Illinois, Annual",PET_IMPORTS.OPN_Y-RS_IL-MED.A
+71,"Imports of medium crude oil from OPEC to refineries in Illinois, Monthly",PET_IMPORTS.OPN_Y-RS_IL-MED.M
+72,"Imports of all grades of crude oil from OPEC to refineries in Kentucky, Annual",PET_IMPORTS.OPN_Y-RS_KY-ALL.A
+73,"Imports of all grades of crude oil from OPEC to refineries in Kentucky, Monthly",PET_IMPORTS.OPN_Y-RS_KY-ALL.M
+74,"Imports of heavy sour crude oil from OPEC to refineries in Kentucky, Annual",PET_IMPORTS.OPN_Y-RS_KY-HSO.A
+75,"Imports of heavy sour crude oil from OPEC to refineries in Kentucky, Monthly",PET_IMPORTS.OPN_Y-RS_KY-HSO.M
+76,"Imports of light sour crude oil from OPEC to refineries in Kentucky, Annual",PET_IMPORTS.OPN_Y-RS_KY-LSO.A
+77,"Imports of light sour crude oil from OPEC to refineries in Kentucky, Monthly",PET_IMPORTS.OPN_Y-RS_KY-LSO.M
+78,"Imports of light sweet crude oil from OPEC to refineries in Kentucky, Annual",PET_IMPORTS.OPN_Y-RS_KY-LSW.A
+79,"Imports of light sweet crude oil from OPEC to refineries in Kentucky, Monthly",PET_IMPORTS.OPN_Y-RS_KY-LSW.M
+80,"Imports of medium crude oil from OPEC to refineries in Kentucky, Annual",PET_IMPORTS.OPN_Y-RS_KY-MED.A
+81,"Imports of medium crude oil from OPEC to refineries in Kentucky, Monthly",PET_IMPORTS.OPN_Y-RS_KY-MED.M
+82,"Imports of all grades of crude oil from OPEC to refineries in Louisiana, Annual",PET_IMPORTS.OPN_Y-RS_LA-ALL.A
+83,"Imports of all grades of crude oil from OPEC to refineries in Louisiana, Monthly",PET_IMPORTS.OPN_Y-RS_LA-ALL.M
+84,"Imports of heavy sour crude oil from OPEC to refineries in Louisiana, Annual",PET_IMPORTS.OPN_Y-RS_LA-HSO.A
+85,"Imports of heavy sour crude oil from OPEC to refineries in Louisiana, Monthly",PET_IMPORTS.OPN_Y-RS_LA-HSO.M
+86,"Imports of heavy sweet crude oil from OPEC to refineries in Louisiana, Annual",PET_IMPORTS.OPN_Y-RS_LA-HSW.A
+87,"Imports of heavy sweet crude oil from OPEC to refineries in Louisiana, Monthly",PET_IMPORTS.OPN_Y-RS_LA-HSW.M
+88,"Imports of light sour crude oil from OPEC to refineries in Louisiana, Annual",PET_IMPORTS.OPN_Y-RS_LA-LSO.A
+89,"Imports of light sour crude oil from OPEC to refineries in Louisiana, Monthly",PET_IMPORTS.OPN_Y-RS_LA-LSO.M
+90,"Imports of light sweet crude oil from OPEC to refineries in Louisiana, Annual",PET_IMPORTS.OPN_Y-RS_LA-LSW.A
+91,"Imports of light sweet crude oil from OPEC to refineries in Louisiana, Monthly",PET_IMPORTS.OPN_Y-RS_LA-LSW.M
+92,"Imports of medium crude oil from OPEC to refineries in Louisiana, Annual",PET_IMPORTS.OPN_Y-RS_LA-MED.A
+93,"Imports of medium crude oil from OPEC to refineries in Louisiana, Monthly",PET_IMPORTS.OPN_Y-RS_LA-MED.M
+94,"Imports of all grades of crude oil from OPEC to refineries in Massachusetts, Annual",PET_IMPORTS.OPN_Y-RS_MA-ALL.A
+95,"Imports of all grades of crude oil from OPEC to refineries in Massachusetts, Monthly",PET_IMPORTS.OPN_Y-RS_MA-ALL.M
+96,"Imports of heavy sour crude oil from OPEC to refineries in Massachusetts, Annual",PET_IMPORTS.OPN_Y-RS_MA-HSO.A
+97,"Imports of heavy sour crude oil from OPEC to refineries in Massachusetts, Monthly",PET_IMPORTS.OPN_Y-RS_MA-HSO.M
+98,"Imports of all grades of crude oil from OPEC to refineries in Maryland, Annual",PET_IMPORTS.OPN_Y-RS_MD-ALL.A
+99,"Imports of all grades of crude oil from OPEC to refineries in Maryland, Monthly",PET_IMPORTS.OPN_Y-RS_MD-ALL.M
+100,"Imports of heavy sweet crude oil from OPEC to refineries in Maryland, Annual",PET_IMPORTS.OPN_Y-RS_MD-HSW.A
+101,"Imports of heavy sweet crude oil from OPEC to refineries in Maryland, Monthly",PET_IMPORTS.OPN_Y-RS_MD-HSW.M
+102,"Imports of all grades of crude oil from OPEC to refineries in Michigan, Annual",PET_IMPORTS.OPN_Y-RS_MI-ALL.A
+103,"Imports of all grades of crude oil from OPEC to refineries in Michigan, Monthly",PET_IMPORTS.OPN_Y-RS_MI-ALL.M
+104,"Imports of heavy sour crude oil from OPEC to refineries in Michigan, Annual",PET_IMPORTS.OPN_Y-RS_MI-HSO.A
+105,"Imports of heavy sour crude oil from OPEC to refineries in Michigan, Monthly",PET_IMPORTS.OPN_Y-RS_MI-HSO.M
+106,"Imports of light sour crude oil from OPEC to refineries in Michigan, Annual",PET_IMPORTS.OPN_Y-RS_MI-LSO.A
+107,"Imports of light sour crude oil from OPEC to refineries in Michigan, Monthly",PET_IMPORTS.OPN_Y-RS_MI-LSO.M
+108,"Imports of medium crude oil from OPEC to refineries in Michigan, Annual",PET_IMPORTS.OPN_Y-RS_MI-MED.A
+109,"Imports of medium crude oil from OPEC to refineries in Michigan, Monthly",PET_IMPORTS.OPN_Y-RS_MI-MED.M
+110,"Imports of all grades of crude oil from OPEC to refineries in Minnesota, Annual",PET_IMPORTS.OPN_Y-RS_MN-ALL.A
+111,"Imports of all grades of crude oil from OPEC to refineries in Minnesota, Monthly",PET_IMPORTS.OPN_Y-RS_MN-ALL.M
+112,"Imports of heavy sour crude oil from OPEC to refineries in Minnesota, Annual",PET_IMPORTS.OPN_Y-RS_MN-HSO.A
+113,"Imports of heavy sour crude oil from OPEC to refineries in Minnesota, Monthly",PET_IMPORTS.OPN_Y-RS_MN-HSO.M
+114,"Imports of all grades of crude oil from OPEC to refineries in Mississippi, Annual",PET_IMPORTS.OPN_Y-RS_MS-ALL.A
+115,"Imports of all grades of crude oil from OPEC to refineries in Mississippi, Monthly",PET_IMPORTS.OPN_Y-RS_MS-ALL.M
+116,"Imports of heavy sour crude oil from OPEC to refineries in Mississippi, Annual",PET_IMPORTS.OPN_Y-RS_MS-HSO.A
+117,"Imports of heavy sour crude oil from OPEC to refineries in Mississippi, Monthly",PET_IMPORTS.OPN_Y-RS_MS-HSO.M
+118,"Imports of heavy sweet crude oil from OPEC to refineries in Mississippi, Annual",PET_IMPORTS.OPN_Y-RS_MS-HSW.A
+119,"Imports of heavy sweet crude oil from OPEC to refineries in Mississippi, Monthly",PET_IMPORTS.OPN_Y-RS_MS-HSW.M
+120,"Imports of light sour crude oil from OPEC to refineries in Mississippi, Annual",PET_IMPORTS.OPN_Y-RS_MS-LSO.A
+121,"Imports of light sour crude oil from OPEC to refineries in Mississippi, Monthly",PET_IMPORTS.OPN_Y-RS_MS-LSO.M
+122,"Imports of light sweet crude oil from OPEC to refineries in Mississippi, Annual",PET_IMPORTS.OPN_Y-RS_MS-LSW.A
+123,"Imports of light sweet crude oil from OPEC to refineries in Mississippi, Monthly",PET_IMPORTS.OPN_Y-RS_MS-LSW.M
+124,"Imports of medium crude oil from OPEC to refineries in Mississippi, Annual",PET_IMPORTS.OPN_Y-RS_MS-MED.A
+125,"Imports of medium crude oil from OPEC to refineries in Mississippi, Monthly",PET_IMPORTS.OPN_Y-RS_MS-MED.M
+126,"Imports of all grades of crude oil from OPEC to refineries in North Dakota, Annual",PET_IMPORTS.OPN_Y-RS_ND-ALL.A
+127,"Imports of all grades of crude oil from OPEC to refineries in North Dakota, Monthly",PET_IMPORTS.OPN_Y-RS_ND-ALL.M
+128,"Imports of heavy sour crude oil from OPEC to refineries in North Dakota, Annual",PET_IMPORTS.OPN_Y-RS_ND-HSO.A
+129,"Imports of heavy sour crude oil from OPEC to refineries in North Dakota, Monthly",PET_IMPORTS.OPN_Y-RS_ND-HSO.M
+130,"Imports of all grades of crude oil from OPEC to refineries in New Jersey, Annual",PET_IMPORTS.OPN_Y-RS_NJ-ALL.A
+131,"Imports of all grades of crude oil from OPEC to refineries in New Jersey, Monthly",PET_IMPORTS.OPN_Y-RS_NJ-ALL.M
+132,"Imports of heavy sour crude oil from OPEC to refineries in New Jersey, Annual",PET_IMPORTS.OPN_Y-RS_NJ-HSO.A
+133,"Imports of heavy sour crude oil from OPEC to refineries in New Jersey, Monthly",PET_IMPORTS.OPN_Y-RS_NJ-HSO.M
+134,"Imports of heavy sweet crude oil from OPEC to refineries in New Jersey, Annual",PET_IMPORTS.OPN_Y-RS_NJ-HSW.A
+135,"Imports of heavy sweet crude oil from OPEC to refineries in New Jersey, Monthly",PET_IMPORTS.OPN_Y-RS_NJ-HSW.M
+136,"Imports of light sour crude oil from OPEC to refineries in New Jersey, Annual",PET_IMPORTS.OPN_Y-RS_NJ-LSO.A
+137,"Imports of light sour crude oil from OPEC to refineries in New Jersey, Monthly",PET_IMPORTS.OPN_Y-RS_NJ-LSO.M
+138,"Imports of light sweet crude oil from OPEC to refineries in New Jersey, Annual",PET_IMPORTS.OPN_Y-RS_NJ-LSW.A
+139,"Imports of light sweet crude oil from OPEC to refineries in New Jersey, Monthly",PET_IMPORTS.OPN_Y-RS_NJ-LSW.M
+140,"Imports of medium crude oil from OPEC to refineries in New Jersey, Annual",PET_IMPORTS.OPN_Y-RS_NJ-MED.A
+141,"Imports of medium crude oil from OPEC to refineries in New Jersey, Monthly",PET_IMPORTS.OPN_Y-RS_NJ-MED.M
+142,"Imports of all grades of crude oil from OPEC to refineries in New York, Annual",PET_IMPORTS.OPN_Y-RS_NY-ALL.A
+143,"Imports of all grades of crude oil from OPEC to refineries in New York, Monthly",PET_IMPORTS.OPN_Y-RS_NY-ALL.M
+144,"Imports of heavy sweet crude oil from OPEC to refineries in New York, Annual",PET_IMPORTS.OPN_Y-RS_NY-HSW.A
+145,"Imports of heavy sweet crude oil from OPEC to refineries in New York, Monthly",PET_IMPORTS.OPN_Y-RS_NY-HSW.M
+146,"Imports of all grades of crude oil from OPEC to refineries in Ohio, Annual",PET_IMPORTS.OPN_Y-RS_OH-ALL.A
+147,"Imports of all grades of crude oil from OPEC to refineries in Ohio, Monthly",PET_IMPORTS.OPN_Y-RS_OH-ALL.M
+148,"Imports of light sweet crude oil from OPEC to refineries in Ohio, Annual",PET_IMPORTS.OPN_Y-RS_OH-LSW.A
+149,"Imports of light sweet crude oil from OPEC to refineries in Ohio, Monthly",PET_IMPORTS.OPN_Y-RS_OH-LSW.M
+150,"Imports of medium crude oil from OPEC to refineries in Ohio, Annual",PET_IMPORTS.OPN_Y-RS_OH-MED.A
+151,"Imports of medium crude oil from OPEC to refineries in Ohio, Monthly",PET_IMPORTS.OPN_Y-RS_OH-MED.M
+152,"Imports of all grades of crude oil from OPEC to refineries in Oklahoma, Annual",PET_IMPORTS.OPN_Y-RS_OK-ALL.A
+153,"Imports of all grades of crude oil from OPEC to refineries in Oklahoma, Monthly",PET_IMPORTS.OPN_Y-RS_OK-ALL.M
+154,"Imports of heavy sour crude oil from OPEC to refineries in Oklahoma, Annual",PET_IMPORTS.OPN_Y-RS_OK-HSO.A
+155,"Imports of heavy sour crude oil from OPEC to refineries in Oklahoma, Monthly",PET_IMPORTS.OPN_Y-RS_OK-HSO.M
+156,"Imports of heavy sweet crude oil from OPEC to refineries in Oklahoma, Annual",PET_IMPORTS.OPN_Y-RS_OK-HSW.A
+157,"Imports of heavy sweet crude oil from OPEC to refineries in Oklahoma, Monthly",PET_IMPORTS.OPN_Y-RS_OK-HSW.M
+158,"Imports of light sour crude oil from OPEC to refineries in Oklahoma, Annual",PET_IMPORTS.OPN_Y-RS_OK-LSO.A
+159,"Imports of light sour crude oil from OPEC to refineries in Oklahoma, Monthly",PET_IMPORTS.OPN_Y-RS_OK-LSO.M
+160,"Imports of light sweet crude oil from OPEC to refineries in Oklahoma, Annual",PET_IMPORTS.OPN_Y-RS_OK-LSW.A
+161,"Imports of light sweet crude oil from OPEC to refineries in Oklahoma, Monthly",PET_IMPORTS.OPN_Y-RS_OK-LSW.M
+162,"Imports of medium crude oil from OPEC to refineries in Oklahoma, Annual",PET_IMPORTS.OPN_Y-RS_OK-MED.A
+163,"Imports of medium crude oil from OPEC to refineries in Oklahoma, Monthly",PET_IMPORTS.OPN_Y-RS_OK-MED.M
+164,"Imports of all grades of crude oil from OPEC to refineries in Pennsylvania, Annual",PET_IMPORTS.OPN_Y-RS_PA-ALL.A
+165,"Imports of all grades of crude oil from OPEC to refineries in Pennsylvania, Monthly",PET_IMPORTS.OPN_Y-RS_PA-ALL.M
+166,"Imports of heavy sour crude oil from OPEC to refineries in Pennsylvania, Annual",PET_IMPORTS.OPN_Y-RS_PA-HSO.A
+167,"Imports of heavy sour crude oil from OPEC to refineries in Pennsylvania, Monthly",PET_IMPORTS.OPN_Y-RS_PA-HSO.M
+168,"Imports of heavy sweet crude oil from OPEC to refineries in Pennsylvania, Annual",PET_IMPORTS.OPN_Y-RS_PA-HSW.A
+169,"Imports of heavy sweet crude oil from OPEC to refineries in Pennsylvania, Monthly",PET_IMPORTS.OPN_Y-RS_PA-HSW.M
+170,"Imports of light sour crude oil from OPEC to refineries in Pennsylvania, Annual",PET_IMPORTS.OPN_Y-RS_PA-LSO.A
+171,"Imports of light sour crude oil from OPEC to refineries in Pennsylvania, Monthly",PET_IMPORTS.OPN_Y-RS_PA-LSO.M
+172,"Imports of light sweet crude oil from OPEC to refineries in Pennsylvania, Annual",PET_IMPORTS.OPN_Y-RS_PA-LSW.A
+173,"Imports of light sweet crude oil from OPEC to refineries in Pennsylvania, Monthly",PET_IMPORTS.OPN_Y-RS_PA-LSW.M
+174,"Imports of medium crude oil from OPEC to refineries in Pennsylvania, Annual",PET_IMPORTS.OPN_Y-RS_PA-MED.A
+175,"Imports of medium crude oil from OPEC to refineries in Pennsylvania, Monthly",PET_IMPORTS.OPN_Y-RS_PA-MED.M
+176,"Imports of all grades of crude oil from OPEC to refineries in Tennessee, Annual",PET_IMPORTS.OPN_Y-RS_TN-ALL.A
+177,"Imports of all grades of crude oil from OPEC to refineries in Tennessee, Monthly",PET_IMPORTS.OPN_Y-RS_TN-ALL.M
+178,"Imports of light sweet crude oil from OPEC to refineries in Tennessee, Annual",PET_IMPORTS.OPN_Y-RS_TN-LSW.A
+179,"Imports of light sweet crude oil from OPEC to refineries in Tennessee, Monthly",PET_IMPORTS.OPN_Y-RS_TN-LSW.M
+180,"Imports of all grades of crude oil from OPEC to refineries in Texas, Annual",PET_IMPORTS.OPN_Y-RS_TX-ALL.A
+181,"Imports of all grades of crude oil from OPEC to refineries in Texas, Monthly",PET_IMPORTS.OPN_Y-RS_TX-ALL.M
+182,"Imports of heavy sour crude oil from OPEC to refineries in Texas, Annual",PET_IMPORTS.OPN_Y-RS_TX-HSO.A
+183,"Imports of heavy sour crude oil from OPEC to refineries in Texas, Monthly",PET_IMPORTS.OPN_Y-RS_TX-HSO.M
+184,"Imports of heavy sweet crude oil from OPEC to refineries in Texas, Annual",PET_IMPORTS.OPN_Y-RS_TX-HSW.A
+185,"Imports of heavy sweet crude oil from OPEC to refineries in Texas, Monthly",PET_IMPORTS.OPN_Y-RS_TX-HSW.M
+186,"Imports of light sour crude oil from OPEC to refineries in Texas, Annual",PET_IMPORTS.OPN_Y-RS_TX-LSO.A
+187,"Imports of light sour crude oil from OPEC to refineries in Texas, Monthly",PET_IMPORTS.OPN_Y-RS_TX-LSO.M
+188,"Imports of light sweet crude oil from OPEC to refineries in Texas, Annual",PET_IMPORTS.OPN_Y-RS_TX-LSW.A
+189,"Imports of light sweet crude oil from OPEC to refineries in Texas, Monthly",PET_IMPORTS.OPN_Y-RS_TX-LSW.M
+190,"Imports of medium crude oil from OPEC to refineries in Texas, Annual",PET_IMPORTS.OPN_Y-RS_TX-MED.A
+191,"Imports of medium crude oil from OPEC to refineries in Texas, Monthly",PET_IMPORTS.OPN_Y-RS_TX-MED.M
+192,"Imports of all grades of crude oil from OPEC to refineries in Utah, Monthly",PET_IMPORTS.OPN_Y-RS_UT-ALL.M
+193,"Imports of medium crude oil from OPEC to refineries in Utah, Monthly",PET_IMPORTS.OPN_Y-RS_UT-MED.M
+194,"Imports of all grades of crude oil from OPEC to refineries in Virginia, Annual",PET_IMPORTS.OPN_Y-RS_VA-ALL.A
+195,"Imports of all grades of crude oil from OPEC to refineries in Virginia, Monthly",PET_IMPORTS.OPN_Y-RS_VA-ALL.M
+196,"Imports of light sour crude oil from OPEC to refineries in Virginia, Annual",PET_IMPORTS.OPN_Y-RS_VA-LSO.A
+197,"Imports of light sour crude oil from OPEC to refineries in Virginia, Monthly",PET_IMPORTS.OPN_Y-RS_VA-LSO.M
+198,"Imports of light sweet crude oil from OPEC to refineries in Virginia, Annual",PET_IMPORTS.OPN_Y-RS_VA-LSW.A
+199,"Imports of light sweet crude oil from OPEC to refineries in Virginia, Monthly",PET_IMPORTS.OPN_Y-RS_VA-LSW.M
+200,"Imports of medium crude oil from OPEC to refineries in Virginia, Annual",PET_IMPORTS.OPN_Y-RS_VA-MED.A
+201,"Imports of medium crude oil from OPEC to refineries in Virginia, Monthly",PET_IMPORTS.OPN_Y-RS_VA-MED.M
+202,"Imports of all grades of crude oil from OPEC to refineries in Virgin Islands, Annual",PET_IMPORTS.OPN_Y-RS_VI-ALL.A
+203,"Imports of all grades of crude oil from OPEC to refineries in Virgin Islands, Monthly",PET_IMPORTS.OPN_Y-RS_VI-ALL.M
+204,"Imports of heavy sour crude oil from OPEC to refineries in Virgin Islands, Annual",PET_IMPORTS.OPN_Y-RS_VI-HSO.A
+205,"Imports of heavy sour crude oil from OPEC to refineries in Virgin Islands, Monthly",PET_IMPORTS.OPN_Y-RS_VI-HSO.M
+206,"Imports of light sour crude oil from OPEC to refineries in Virgin Islands, Annual",PET_IMPORTS.OPN_Y-RS_VI-LSO.A
+207,"Imports of light sour crude oil from OPEC to refineries in Virgin Islands, Monthly",PET_IMPORTS.OPN_Y-RS_VI-LSO.M
+208,"Imports of light sweet crude oil from OPEC to refineries in Virgin Islands, Annual",PET_IMPORTS.OPN_Y-RS_VI-LSW.A
+209,"Imports of light sweet crude oil from OPEC to refineries in Virgin Islands, Monthly",PET_IMPORTS.OPN_Y-RS_VI-LSW.M
+210,"Imports of medium crude oil from OPEC to refineries in Virgin Islands, Annual",PET_IMPORTS.OPN_Y-RS_VI-MED.A
+211,"Imports of medium crude oil from OPEC to refineries in Virgin Islands, Monthly",PET_IMPORTS.OPN_Y-RS_VI-MED.M
+212,"Imports of all grades of crude oil from OPEC to refineries in Washington, Annual",PET_IMPORTS.OPN_Y-RS_WA-ALL.A
+213,"Imports of all grades of crude oil from OPEC to refineries in Washington, Monthly",PET_IMPORTS.OPN_Y-RS_WA-ALL.M
+214,"Imports of heavy sour crude oil from OPEC to refineries in Washington, Annual",PET_IMPORTS.OPN_Y-RS_WA-HSO.A
+215,"Imports of heavy sour crude oil from OPEC to refineries in Washington, Monthly",PET_IMPORTS.OPN_Y-RS_WA-HSO.M
+216,"Imports of heavy sweet crude oil from OPEC to refineries in Washington, Annual",PET_IMPORTS.OPN_Y-RS_WA-HSW.A
+217,"Imports of heavy sweet crude oil from OPEC to refineries in Washington, Monthly",PET_IMPORTS.OPN_Y-RS_WA-HSW.M
+218,"Imports of light sour crude oil from OPEC to refineries in Washington, Annual",PET_IMPORTS.OPN_Y-RS_WA-LSO.A
+219,"Imports of light sour crude oil from OPEC to refineries in Washington, Monthly",PET_IMPORTS.OPN_Y-RS_WA-LSO.M
+220,"Imports of light sweet crude oil from OPEC to refineries in Washington, Annual",PET_IMPORTS.OPN_Y-RS_WA-LSW.A
+221,"Imports of light sweet crude oil from OPEC to refineries in Washington, Monthly",PET_IMPORTS.OPN_Y-RS_WA-LSW.M
+222,"Imports of medium crude oil from OPEC to refineries in Washington, Annual",PET_IMPORTS.OPN_Y-RS_WA-MED.A
+223,"Imports of medium crude oil from OPEC to refineries in Washington, Monthly",PET_IMPORTS.OPN_Y-RS_WA-MED.M
+224,"Imports of all grades of crude oil from OPEC to refineries in Unkown State, Monthly",PET_IMPORTS.OPN_Y-RS_XX-ALL.M
+225,"Imports of heavy sour crude oil from OPEC to refineries in Unkown State, Monthly",PET_IMPORTS.OPN_Y-RS_XX-HSO.M
+226,"Imports of light sour crude oil from OPEC to refineries in Unkown State, Monthly",PET_IMPORTS.OPN_Y-RS_XX-LSO.M
+227,"Imports of light sweet crude oil from OPEC to refineries in Unkown State, Monthly",PET_IMPORTS.OPN_Y-RS_XX-LSW.M
+228,"Imports of medium crude oil from OPEC to refineries in Unkown State, Monthly",PET_IMPORTS.OPN_Y-RS_XX-MED.M
